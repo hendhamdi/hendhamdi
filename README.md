@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 I am a Master's student in Open Source Software Engineering.
 I am passionate ✨ about problem-solving, web development, and building intelligent systems.
 
