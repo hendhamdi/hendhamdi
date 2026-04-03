@@ -46,4 +46,5 @@ My goal ✨ is to design innovative, scalable solutions and continuously grow as
 ![Spark NLP](https://img.shields.io/badge/Spark_NLP-FF6F61?style=flat-square)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FF6F61?style=flat-square)
 ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FFB74D?style=flat-square)
-![Open Source Contribution](https://img.shields.io/badge/Open_Source-6A1B9A?style=flat-square)s.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Open Source Contribution](https://img.shields.io/badge/Open_Source-6A1B9A?style=flat-square)
+
