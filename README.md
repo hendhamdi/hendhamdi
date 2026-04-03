@@ -2,7 +2,8 @@
 I am a Master's student in Open Source Software Engineering.
 I am passionate ✨ about problem-solving, web development, and building intelligent systems.
 
-Currently, I am working on my **PFE (final year project) at Ooredoo** 
+Currently, I am working on my **PFE (final year project) at Ooredoo**.
+
 My goal ✨ is to design innovative, scalable solutions and continuously grow as a developer.
 
 ---
