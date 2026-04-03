@@ -6,14 +6,14 @@ Currently, I am working on an **AI-powered employee turnover prediction platform
 My goal ✨ is to design innovative, scalable solutions and continuously grow as a developer.
 
 ---
-# 🌐 Socials:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hend-hamdi-6a9934243)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamdi.hend@etudiant-isi.utm.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-jet-eight-47.vercel.app/)
 
 ---
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
