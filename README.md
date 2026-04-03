@@ -7,9 +7,9 @@ My goal ✨ is to design innovative, scalable solutions and continuously grow as
 
 ---
 # 🌐 Socials:
-- 💼 LinkedIn: [](linkedin.com/in/hend-hamdi-6a9934243)
+- 💼 LinkedIn: linkedin.com/in/hend-hamdi-6a9934243
 - 📧 Email: hamdi.hend@etudiant-isi.utm.tn  
-- 🌍 Portfolio: [-portfolio ](https://my-portfolio-jet-eight-47.vercel.app/) 
+- 🌍 Portfolio: https://my-portfolio-jet-eight-47.vercel.app/
 
 ---
 # 💻 Tech Stack:
