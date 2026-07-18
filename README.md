@@ -49,4 +49,4 @@ Feel free to connect with me if you’re interested in collaboration, sharing kn
 ![Open Source Contribution](https://img.shields.io/badge/Open_Source-6A1B9A?style=flat-square)
 
 ---
-## Thanks for visiting my GitHub! 🚀
+### Thanks for visiting my GitHub! 🚀
